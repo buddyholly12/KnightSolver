@@ -1,7 +1,7 @@
 #include<iostream>
 #include<fstream>
-class board {
-    public:
-    int m;
-    int n;
+struct posisi{
+    int x; 
+    int y;
+    int position;
 }
