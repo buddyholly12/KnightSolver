@@ -5,3 +5,8 @@ struct posisi{
     int y;
     int position;
 }
+int main()
+{
+	return 0;
+
+}
